@@ -36,4 +36,3 @@ jobs:
                 hide-progress: false
                 format: 'table'
                 ignore-unfixed: true
-        

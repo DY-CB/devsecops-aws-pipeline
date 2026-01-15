@@ -8,7 +8,7 @@ from flask import Flask, request
 import json  # Added for safe deserialization
 
 # Flask application
-app = Flask(__name__))
+app = Flask(__name__)
 
 # 1. **Injection (SQL Injection)**
 def get_user_data(user_id):

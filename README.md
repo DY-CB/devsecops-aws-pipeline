@@ -1,4 +1,4 @@
-# 🔐 SecOps — DevSecOps CI/CD Security Pipeline
+# 🔐 devsecops-aws-pipeline — DevSecOps CI/CD Security Pipeline
 
 > Automated SAST · SCA · IaC Scanning · AWS · Terraform · GitHub Actions
 
